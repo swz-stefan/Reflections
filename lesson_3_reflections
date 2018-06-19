@@ -18,7 +18,7 @@ Forks are a clone, which operates on Git-Hub and makes you able to copy some cod
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+You can work on a stable version without being disrupted by changes, which affect your current work.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
